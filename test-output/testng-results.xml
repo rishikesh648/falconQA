@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-24T13:38:14 IST" name="Default suite" finished-at="2025-04-24T13:38:57 IST" duration-ms="42712">
+    <groups>
+    </groups>
+    <test started-at="2025-04-24T13:38:14 IST" name="Default test" finished-at="2025-04-24T13:38:57 IST" duration-ms="42712">
+      <class name="Browsertest.Browsertest.App">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Browsertest.Browsertest.App@8c3b9d]" started-at="2025-04-24T13:38:14 IST" name="setup" finished-at="2025-04-24T13:38:19 IST" duration-ms="4429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="takeTest()[pri:1, instance:Browsertest.Browsertest.App@8c3b9d]" started-at="2025-04-24T13:38:19 IST" name="takeTest" finished-at="2025-04-24T13:38:26 IST" duration-ms="7477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeTest -->
+        <test-method signature="clickCheckboxes()[pri:2, instance:Browsertest.Browsertest.App@8c3b9d]" started-at="2025-04-24T13:38:26 IST" name="clickCheckboxes" finished-at="2025-04-24T13:38:53 IST" duration-ms="26472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckboxes -->
+        <test-method signature="enterdetails()[pri:3, instance:Browsertest.Browsertest.App@8c3b9d]" started-at="2025-04-24T13:38:53 IST" name="enterdetails" finished-at="2025-04-24T13:38:57 IST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Browsertest.Browsertest.App@8c3b9d]" started-at="2025-04-24T13:38:57 IST" name="tearDown" finished-at="2025-04-24T13:38:57 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Browsertest.Browsertest.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
